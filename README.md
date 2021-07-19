@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://younnggsuk.github.io/)](https://younnggsuk.github.io/)
  
-![Youngsuk's github stats](https://github-readme-stats.vercel.app/api?username=younnggsuk)
+![Youngsuk's github stats](https://github-readme-stats.vercel.app/api?username=younnggsuk&show_icons=true&theme=tokyonight)
